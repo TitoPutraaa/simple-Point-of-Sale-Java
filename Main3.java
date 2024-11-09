@@ -78,5 +78,6 @@ public class Main3 {
                 System.out.println("Totala biaya = " + pembayaran);
             }
         }
+        scan.close();
     }
 }
